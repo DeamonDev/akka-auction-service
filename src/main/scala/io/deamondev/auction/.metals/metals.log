@@ -1,0 +1,2 @@
+2022.04.24 12:15:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/piotrrudnicki/software_development/projects/workshop-akka-actors/src/main/scala/io/scalac/auction/.metals/lsp.trace.json or /Users/piotrrudnicki/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.04.24 12:15:10 INFO  logging to file /Users/piotrrudnicki/software_development/projects/workshop-akka-actors/.metals/metals.log[0m
